@@ -1,15 +1,23 @@
 # InsightPilot AI
 
-AI-powered data analytics platform built with Streamlit, Pandas, Plotly, Scikit-Learn and Gemini AI.
+An AI-powered Data Analytics Platform built using Python, Streamlit, Plotly, Scikit-Learn, and Gemini AI.
 
 ## Features
 - Data Cleaning
-- KPI Dashboard
+- Interactive Dashboard
 - Forecasting
 - Anomaly Detection
 - AI Business Insights
 - Chat with Data
-- Download Reports
+- Executive Summary
+- PDF & Excel Reports
+- Data Quality Score
 
 ## Tech Stack
-Python, Streamlit, Pandas, Plotly, Scikit-Learn, Gemini AI
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- Scikit-Learn
+- Gemini AI
+- ReportLab
