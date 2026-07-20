@@ -149,9 +149,6 @@ Add screenshots of:
 GitHub:
 https://github.com/adilmaniyar-maker
 
-LinkedIn:
-(Add your LinkedIn Profile)
-
 ---
 
 ## ⭐ If you found this project useful, don't forget to Star this repository.
